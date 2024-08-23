@@ -24,10 +24,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/array-with.git"
+    "url": "https://github.com/PritiranjanPatra2/array-with-package.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/array-with/issues"
+    "url": "https://github.com/PritiranjanPatra2/array-with-package.git"
   },
-  "homepage": "https://github.com/yourusername/array-with#readme"
+  "homepage": "https://github.com/PritiranjanPatra2/array-with-package.git#readme"
 }
