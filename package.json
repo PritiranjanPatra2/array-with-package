@@ -1,0 +1,33 @@
+{
+  "name": "array-with",
+  "version": "1.0.0",
+  "description": "A collection of useful array helper functions for common tasks like summing, removing duplicates, finding max/min, and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "lint": "eslint .",
+    "build": "npm run lint && npm run test"
+  },
+  "keywords": [
+    "array",
+    "helpers",
+    "utilities",
+    "sum",
+    "unique",
+    "average",
+    "max",
+    "min",
+    "groupBy"
+  ],
+  "author": "Pritiranjan",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/array-with.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/array-with/issues"
+  },
+  "homepage": "https://github.com/yourusername/array-with#readme"
+}
